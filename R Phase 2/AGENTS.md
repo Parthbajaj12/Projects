@@ -1,0 +1,1 @@
+This is some R code I am using for work, I want you to clean this shit and heavily annotate it. 
